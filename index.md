@@ -1,0 +1,13 @@
+# Academic Background
+
+My name is Shuaihang Zhong, and I am studying Software Engineering at the School of Information and Software Engineering, University of Electronic Science and Technology of China. During the first five semesters of my undergraduate studies, my class rank was 9/151 (5.96%), with an average GPA of 3.99/4.00 and a professional score of 92.1/100. I participated in the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition and won a provincial second prize in the Python group. Additionally, I received the Excellent Student Scholarship in both my freshman and sophomore years.
+
+# Research Experience
+
+To understand and explore the path of scientific research and accumulate research experience, I joined the National Key Laboratory of Smart City and Internet of Things as a research assistant in the second semester of my junior year. I was responsible for assisting in research topics such as memory optimization for large-scale deployment of federated learning, lightweight deployment of large models, and training acceleration on edge devices, achieving some research outcomes. For instance, I worked on "Model Privacy and Data Heterogeneity of LLMs" and designed a framework called FedProxy. In the absence of open-source LLMs, this framework uses real-time output logits of smaller models to guide the effective fine-tuning of LLMs, ensuring dual privacy protection of data and models in federated learning. It also adopts MoE for dynamic LoRA fusion targeted at downstream multi-domain tasks. This research has been submitted to NSDI.
+
+# Project Experience
+
+Beyond my coursework, I have also expanded my extracurricular knowledge in programming languages like Java and Python, mastering SQL databases and familiarizing myself with Java-related development frameworks such as SSM, Spring Boot, and MyBatis Plus. I have applied theoretical knowledge in practice by participating in some project designs and productions. For example:
+
+Intelligent Face Recognition Picture Fun and Social Scoring App—Developed a fun social app capable of facial processing on the Android platform. The main focus of the app is social interaction; users can upload photos for scoring and beautification, as well as create simple sketches of faces, find similar faces, and engage in social activities such as posting updates, liking, and commenting. I was primarily responsible for project requirement analysis and design and backend implementation, using Spring Boot and MyBatis Plus frameworks to handle front-end requests, design and call databases, and interact with the machine learning team on facial-related features.
